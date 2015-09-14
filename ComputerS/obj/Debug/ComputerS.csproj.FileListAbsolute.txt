@@ -1,0 +1,10 @@
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\obj\Debug\ComputerS.csprojResolveAssemblyReference.cache
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\bin\ComputerS.dll.config
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\bin\ComputerS.dll
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\bin\ComputerS.pdb
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\bin\EntityFramework.dll
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\bin\EntityFramework.SqlServer.dll
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\bin\EntityFramework.xml
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\bin\EntityFramework.SqlServer.xml
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\obj\Debug\ComputerS.dll
+c:\users\nazar\documents\visual studio 2013\Projects\ComputerS\ComputerS\obj\Debug\ComputerS.pdb
